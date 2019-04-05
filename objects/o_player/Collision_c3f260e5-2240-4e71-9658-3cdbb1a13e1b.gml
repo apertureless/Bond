@@ -4,7 +4,7 @@ if (hurtbox_entity_hit_by(other)) {
 	_invincible = true;
 	alarm[0] = global.one_second * 0.75;
 	global.player_health -= other._damage;
-	
+
 	var _direction = point_direction(other.x, other.y, x, y);
 	set_movement(_direction, other._knockback);
 	

@@ -571,25 +571,6 @@
             }
         },
         {
-            "Key": "3af06ad0-0934-4e3c-bbe1-00890c7baad9",
-            "Value": {
-                "id": "bc4f8f69-522a-4faf-97d1-9107af484300",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/s_dirtpath_tileset\/s_dirtpath_tileset.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3dbf6c2e-dd1c-4668-8189-429155d8e15c",
             "Value": {
                 "id": "9e5bc614-8722-4c5a-be78-87b19270d813",
@@ -1404,25 +1385,6 @@
                 ],
                 "resourcePath": "sprites\/s_stamina_ui\/s_stamina_ui.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "830700df-32c3-44c1-964d-4578db7e231b",
-            "Value": {
-                "id": "3ed365c4-cdf0-44c7-aea5-5a730d70ebe2",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "tilesets\/t_dirtpath\/t_dirtpath.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
@@ -2981,6 +2943,25 @@
                 ],
                 "resourcePath": "views\/ee113a53-ee12-422e-9620-0bd13d85e4bc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee11a9b6-e02a-4f00-ad7d-ee3244899fa7",
+            "Value": {
+                "id": "26ca5c5a-42a5-466b-bd33-7a5ec2d5f60f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/t_darkgrass\/t_darkgrass.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
