@@ -248,6 +248,25 @@
             }
         },
         {
+            "Key": "1253d963-4690-4846-a7ad-192182878bfa",
+            "Value": {
+                "id": "744ccd54-fe0f-46eb-b5de-4bca4a5668f2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_sword_strone\/s_sword_strone.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1319026a-cd24-4f98-aa3a-9533827260b4",
             "Value": {
                 "id": "eb46eea0-ed09-4e03-af3f-11dd1f5938a7",
@@ -302,6 +321,25 @@
                 ],
                 "resourcePath": "sprites\/s_player_roll_right\/s_player_roll_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "17e39c7d-a15d-485f-bdb9-ff20f4aa6ce1",
+            "Value": {
+                "id": "fed3edbb-7ce5-4909-929f-a8d507dfe72b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_stonesword\/o_stonesword.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1445,6 +1483,25 @@
             }
         },
         {
+            "Key": "8831cf7d-ac47-4798-9705-2788c6265700",
+            "Value": {
+                "id": "1af53f64-1f6b-4245-afbb-6f967eebb89d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_sword\/r_sword.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8c73982b-dad1-4221-a075-8b33f2cd004e",
             "Value": {
                 "id": "82cd8740-6769-4c47-9098-acff59bcaddc",
@@ -2030,6 +2087,25 @@
                     "default"
                 ],
                 "resourcePath": "views\/b4953c46-bc4d-40fc-a456-8b958fafe5b9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4b86ce4-f56e-4ec8-980c-70d3d4ea654a",
+            "Value": {
+                "id": "fc31efd3-3f8c-4cb5-8578-34cd4336ef4b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/ca3a01f3-2880-436f-aa93-ba1a051210db-room.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -2848,25 +2924,6 @@
                 ],
                 "resourcePath": "sounds\/a_collect_item\/a_collect_item.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e800f005-781d-4df2-a5db-2bd250cc097c",
-            "Value": {
-                "id": "a468aaf1-5df4-43fa-bf0b-f5bd8c15808c",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/r_sword\/r_sword.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
