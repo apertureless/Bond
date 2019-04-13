@@ -6,6 +6,7 @@ instance_create_layer(0, 0, "Instances", o_input);
 #region Fonts
 var _font_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.abcdefghijklmnopqrstuvwxyz1234567890>,!':-+";
 global.font = font_add_sprite_ext(s_font, _font_string, true, 1);
+global.font_small = font_add("m5x7.ttf", 8, false, false, 32, 128);
 draw_set_font(global.font);
 #endregion
 

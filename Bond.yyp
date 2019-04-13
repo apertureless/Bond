@@ -248,25 +248,6 @@
             }
         },
         {
-            "Key": "1253d963-4690-4846-a7ad-192182878bfa",
-            "Value": {
-                "id": "744ccd54-fe0f-46eb-b5de-4bca4a5668f2",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/s_sword_strone\/s_sword_strone.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1319026a-cd24-4f98-aa3a-9533827260b4",
             "Value": {
                 "id": "eb46eea0-ed09-4e03-af3f-11dd1f5938a7",
@@ -2642,6 +2623,25 @@
             }
         },
         {
+            "Key": "d3c94cdc-f140-4830-b24f-ee8e57089768",
+            "Value": {
+                "id": "8b992233-6a2b-40be-b9d4-fdf491afd7a4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_controls_ui\/s_controls_ui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d505ab3a-2a93-4577-823e-15195d53307e",
             "Value": {
                 "id": "c4aeddc5-cf12-4d2b-b9b8-6e9139e1b170",
@@ -2848,6 +2848,25 @@
                 ],
                 "resourcePath": "objects\/o_sword_item\/o_sword_item.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e1cff9c2-1f18-453f-bf4f-c5c28f6faaaf",
+            "Value": {
+                "id": "b780871e-0ded-4231-8ec9-77647f7dd9d0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/m5x7.ttf.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -3207,7 +3226,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/s_sword_item\/s_sword_item.yy",
+                "resourcePath": "sprites\/s_sword_item_stone\/s_sword_item_stone.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -3,7 +3,7 @@ initialize_hurtbox_entity();
 
 image_speed = 0;
 _acceleration = 0.5;
-_max_speed = 1.5;
+_max_speed = 1.7;
 _roll_speed = 2;
 
 _direction_facing = dir.right;
