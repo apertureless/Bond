@@ -87,7 +87,7 @@ if instance_exists(global.item[1]) {
 #endregion
 
 #region UI - Draw Controls
-if (gamepad_is_connected(0)) {
+if (gamepad_is_connected(0) && gamepad_is_supported()) {
 	
 	draw_sprite(s_controls_ui, 0, 4, 4);
 	draw_sprite(s_controls_ui, 2, 36, 4);
@@ -101,6 +101,7 @@ if (gamepad_is_connected(0)) {
 	draw_text_colour(4 + 4, 4, _action_button_1, c_black, c_black, c_black, c_black, 1);
 	draw_sprite(s_controls_ui, 4, 36, 4);
 	draw_text_colour(36 + 4, 4, _action_button_2, c_black, c_black, c_black, c_black, 1);
+	draw_set_font(global.font);
 }
 
 #endregion
